@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "625068150632",
+    "project_id": "hyella-telehealth",
+    "storage_bucket": "hyella-telehealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625068150632:android:83349cab2ae06c7f9ed0dd",
+        "android_client_info": {
+          "package_name": "com.hyella.teleHealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625068150632-n13la45gtf5n41jv94q9de1jen4sn170.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULmZFatt6cMj_mmasfvs9YGJEEBImPu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625068150632-n13la45gtf5n41jv94q9de1jen4sn170.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625068150632-7iocdivgid44ro4i2v46k72e1f6rrbp3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hyella.telehealthapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
